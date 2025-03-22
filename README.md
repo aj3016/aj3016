@@ -1,10 +1,11 @@
 <div id="toc" style="">
   <ul style="list-style: none">
     <summary>
-      <h1> Welcome to my GitHub! I'm Ajinkya. Let's dive into some code! 💻 </h1>
     </summary>
   </ul>
 </div> 
+<h1> Welcome to my GitHub! I'm Ajinkya. Let's dive into some code! 💻 </h1>
+
 <h4 align="center">
   AI Enthusiast | Software Engineer | Researcher
   <br>
