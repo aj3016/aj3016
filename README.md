@@ -6,11 +6,12 @@
 </div> 
 <h1> Welcome to my GitHub! I'm Ajinkya. Let's dive into some code! 💻 </h1>
 
-<h4 align="center">
+<h3 align="center">
   AI Enthusiast | Software Engineer | Researcher
   <br>
    Master’s in Computer Science @ UC Davis | Exploring AI, Distributed Systems & Scalable Computing through Code 🚀
-</h4>
+</h3>
+
 <p>
   I'm Ajinkya Gothankar, a Master’s student in Computer Science at UC Davis with expertise in AI, distributed systems, and scalable computing. Previously, I worked as an Associate Consultant at Oracle Financial Services, developing Java-based APIs and automating PL/SQL operations. My projects include ResShare (a decentralized file-sharing platform), a Hybrid ViT-CNN model for fake face detection, FAMFS enhancements, and research on LLMs for software engineering surveys.
 </p>
