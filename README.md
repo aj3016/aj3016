@@ -22,8 +22,9 @@ Here are some ideas to get you started:
   <br>
    Master’s in Computer Science @ UC Davis | Exploring AI, Distributed Systems & Scalable Computing through Code 🚀
 </h3>
-<h3 align="center"> Master’s in Computer Science @ UC Davis | Exploring AI, Distributed Systems & Scalable Computing through Code 🚀</h3>
-
+<p>
+  I'm Ajinkya Gothankar, a Master’s student in Computer Science at UC Davis with expertise in AI, distributed systems, and scalable computing. Previously, I worked as an Associate Consultant at Oracle Financial Services, developing Java-based APIs and automating PL/SQL operations. My projects include ResShare (a decentralized file-sharing platform), a Hybrid ViT-CNN model for fake face detection, FAMFS enhancements, and research on LLMs for software engineering surveys.
+</p>
 
 - 🔭 I’m currently working on [FAMFS: A High-Speed Memory File System for CXL and Shared Memory](https://github.com/ECS251-FAMFS/famfs/)
 
