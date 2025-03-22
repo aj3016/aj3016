@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Ajinkya Gothankar</h1>
+<h1 align="center">Welcome to my GitHub! I'm Ajinkya. Let's dive into some code! 💻</h1>
 <h3 align="center">
   AI Enthusiast | Software Engineer | Researcher
   <br>
