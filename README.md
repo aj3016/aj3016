@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Ajinkya Gothankar</h1>
-<h3 align="center">👨‍💻 AI Enthusiast | Software Engineer | Researcher </h3>
+<h3 align="center">
+  AI Enthusiast | Software Engineer | Researcher
+  <br>
+   Master’s in Computer Science @ UC Davis | Exploring AI, Distributed Systems & Scalable Computing through Code 🚀
+</h3>
 <h3 align="center"> Master’s in Computer Science @ UC Davis | Exploring AI, Distributed Systems & Scalable Computing through Code 🚀</h3>
 
 
