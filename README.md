@@ -27,7 +27,7 @@ Let’s talk tech, innovation, and all things AI!
 
 - 📝My Portfolio [https://aj3016.github.io/](https://aj3016.github.io/)
 
-- 💬 Ask me about C/C++, Java, JavaScript, Python, PL/SQL, HTML, CSS, Django, Flask, React.js, Node.js, Express.js, MySQL, Oracle PL/SQL, MongoDB, GraphQL, Cloud Deployment (AWS/GCP/Azure, IBM WAS), Git, Postman, SOAP UI, Docker, Kubernetes, Jenkins, CI/CD, JIRA, Linux, Windows, VM, Data Structures & Algorithms, OOP, Operating Systems, Distributed Systems, AI, Machine Learning, Deep Learning, NLP, Computer Vision, TensorFlow, PyTorch, REST/SOAP API’s, Full stack Development, Microservices, Agile, SDLC
+<!-- - 💬 Ask me about C/C++, Java, JavaScript, Python, PL/SQL, HTML, CSS, Django, Flask, React.js, Node.js, Express.js, MySQL, Oracle PL/SQL, MongoDB, GraphQL, Cloud Deployment (AWS/GCP/Azure, IBM WAS), Git, Postman, SOAP UI, Docker, Kubernetes, Jenkins, CI/CD, JIRA, Linux, Windows, VM, Data Structures & Algorithms, OOP, Operating Systems, Distributed Systems, AI, Machine Learning, Deep Learning, NLP, Computer Vision, TensorFlow, PyTorch, REST/SOAP API’s, Full stack Development, Microservices, Agile, SDLC -->
 
 - 📫 How to reach me **ajinkya.gothankar@gmail.com**
 
