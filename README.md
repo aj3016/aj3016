@@ -13,7 +13,11 @@
 </h3>
 
 <p>
-  I'm Ajinkya Gothankar, a Master’s student in Computer Science at UC Davis with expertise in AI, distributed systems, and scalable computing. Previously, I worked as an Associate Consultant at Oracle Financial Services, developing Java-based APIs and automating PL/SQL operations. My projects include ResShare (a decentralized file-sharing platform), a Hybrid ViT-CNN model for fake face detection, FAMFS enhancements, and research on LLMs for software engineering surveys.
+ Hi, I’m Ajinkya Gothankar, a Master’s student in Computer Science at UC Davis, where I dive deep into AI, distributed systems, and scalable computing—basically, making machines smarter and systems faster. Before this, I was an Associate Consultant at Oracle Financial Services, building Java-based APIs and automating PL/SQL operations (because life’s too short for manual queries).
+
+I love building cool things! Some of my projects include ResShare, a decentralized file-sharing platform; a Hybrid ViT-CNN model that spots AI-generated faces; FAMFS enhancements, where I tinker with shared-memory file systems; and research on LLMs for software engineering surveys, where I see if AI can think like developers. And that’s just a teaser—I’ve got more projects, more ideas, and more code in the works!
+
+Let’s talk tech, innovation, and all things AI! 
 </p>
 
 
