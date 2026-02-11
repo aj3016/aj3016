@@ -31,7 +31,7 @@ Let’s talk tech, innovation, and all things AI!
 
 - 📫 How to reach me **ajinkya.gothankar@gmail.com**
 
-- 📄 Know about my experiences [https://aj3016.github.io/AJINKYA%20GOTHANKAR.pdf](https://aj3016.github.io/AJINKYA%20GOTHANKAR.pdf)
+<!-- - 📄 Know about my experiences [https://aj3016.github.io/AJINKYA%20GOTHANKAR.pdf](https://aj3016.github.io/AJINKYA%20GOTHANKAR.pdf) -->
 
 - ⚡ Fun fact I'm a full-fledged otaku, living life one anime episode at a time!
 
